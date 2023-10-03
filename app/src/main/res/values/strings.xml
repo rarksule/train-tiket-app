@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Train Tiket</string>
+    <string name="seat_no">Seat No:</string>
+    <string name="name">Name:</string>
+    <string name="view_dates">Available Train</string>
+    <string name="sign_up">Sign up</string>
+    <string name="check_ticket">Check Ticket</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="support">Support</string>
+    <string name="user_data">User Data</string>
+    <string-array name="seatType">
+        <item>Soft Level1</item>
+        <item>Soft Level2</item>
+        <item>Hard Level1</item>
+        <item>Hard Level2</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>Dire Dawa</item>
+        <item>Methara</item>
+        <item>Adama</item>
+        <item>Addis Ababa</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noprice">0.00</string>
+    <string name="noSeat">00</string>
+    <string name="travel_date">Travel Date</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie in elit interdum suscipit. Donec pulvinar pretium bibendum. Vestibulum feugiat porttitor placerat. Sed nec turpis ligula. Morbi venenatis nulla nibh. Sed id pulvinar elit, in feugiat metus. Nullam scelerisque urna ut leo bibendum vehicula. Fusce sed purus rhoncus justo aliquet euismod nec eget magna. Morbi a iaculis ligula. In hac habitasse platea dictumst. Cras vestibulum venenatis tincidunt. Fusce cursus tortor ac ultrices faucibus. Vestibulum tincidunt mollis leo, vitae convallis mauris congue vel.
+
+Nulla sit amet consequat orci. Nulla facilisi. Ut blandit accumsan orci, at pellentesque lorem convallis eget. Nam finibus commodo lorem. Integer ullamcorper augue et nunc placerat venenatis. Quisque semper rhoncus ex vitae condimentum. Duis eget facilisis purus. Vivamus pharetra scelerisque tortor vitae laoreet. Sed mattis nibh vitae est posuere tristique. Aliquam at volutpat est, sed scelerisque eros. Vestibulum non cursus lorem. Maecenas a sapien dictum, lobortis justo quis, consequat felis. Cras a leo vitae orci convallis iaculis et et diam.
+
+Etiam vitae egestas ipsum. Maecenas nec lobortis enim. Sed pharetra consequat accumsan. Phasellus interdum ultrices dolor eget commodo. Aenean in quam vel enim molestie euismod ut et enim. Aliquam lectus metus, viverra posuere justo viverra, laoreet ultrices felis. Sed ultricies magna mauris, sed ornare felis aliquet et. Curabitur vitae felis vitae mauris hendrerit vulputate. Ut congue nisi nec sodales condimentum.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi consequat elit neque, eget blandit quam porta at. Suspendisse elementum mollis elementum. Aliquam sollicitudin imperdiet leo id malesuada. Aliquam consequat, diam in feugiat pulvinar, urna urna dapibus odio, vitae faucibus ante risus ac ligula. Vestibulum viverra orci tincidunt porttitor gravida. Quisque vel turpis vitae velit ultrices tempor nec in sem. Morbi vulputate et quam eu consectetur. Curabitur et vulputate ante, id dignissim nibh. In hac habitasse platea dictumst.
+
+Nam facilisis non sapien vel rhoncus. Proin maximus elit velit, quis vehicula nisl mattis id. Pellentesque quam metus, maximus sit amet auctor quis, finibus et erat. Donec ac placerat ex, ac elementum felis. Curabitur sit amet vulputate ex. Sed a felis in tortor eleifend sagittis. Suspendisse efficitur congue purus in sagittis. Aenean dignissim ligula ut egestas hendrerit. Duis ut rutrum magna. Donec sed tempus ante, sed commodo sapien. Ut congue turpis in sem tincidunt, at congue velit lobortis. Ut eget maximus purus. Aliquam blandit vestibulum purus id hendrerit. Ut gravida eu dolor eu pellentesque.</string>
+</resources>
