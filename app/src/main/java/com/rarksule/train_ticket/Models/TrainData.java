@@ -1,4 +1,4 @@
-package com.group5.project.Models;
+package com.rarksule.train_ticket.Models;
 
 public class TrainData {
     String TrainNo,Departure,Destination,Date,StartTime,EndTime;

@@ -1,4 +1,4 @@
-package com.group5.project.Models;
+package com.rarksule.train_ticket.Models;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.group5.project.R;
+import com.rarksule.train_ticket.R;
 
 import java.util.List;
 

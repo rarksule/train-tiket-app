@@ -1,4 +1,4 @@
-package com.group5.project;
+package com.rarksule.train_ticket;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -24,8 +24,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.group5.project.Models.UserData;
-import com.group5.project.Models.UserDataAdapter;
+import com.rarksule.train_ticket.Models.UserData;
+import com.rarksule.train_ticket.Models.UserDataAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

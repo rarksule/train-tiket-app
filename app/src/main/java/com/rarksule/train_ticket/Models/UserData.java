@@ -1,4 +1,4 @@
-package com.group5.project.Models;
+package com.rarksule.train_ticket.Models;
 
 import com.google.firebase.firestore.Exclude;
 

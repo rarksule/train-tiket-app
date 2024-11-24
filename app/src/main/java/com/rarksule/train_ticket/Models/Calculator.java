@@ -1,4 +1,4 @@
-package com.group5.project.Models;
+package com.rarksule.train_ticket.Models;
 
 public class Calculator {
         public static String SeatType, Destination, Departure;

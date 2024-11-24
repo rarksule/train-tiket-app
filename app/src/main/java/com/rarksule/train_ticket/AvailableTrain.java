@@ -1,4 +1,4 @@
-package com.group5.project;
+package com.rarksule.train_ticket;
 
 import android.app.DatePickerDialog;
 import android.app.ProgressDialog;
@@ -24,8 +24,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.group5.project.Models.TrainAdapter;
-import com.group5.project.Models.TrainData;
+import com.rarksule.train_ticket.Models.TrainAdapter;
+import com.rarksule.train_ticket.Models.TrainData;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.group5.project;
+package com.rarksule.train_ticket;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

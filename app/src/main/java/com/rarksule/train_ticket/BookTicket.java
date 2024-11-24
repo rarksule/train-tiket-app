@@ -1,4 +1,4 @@
-package com.group5.project;
+package com.rarksule.train_ticket;
 
 import android.app.DatePickerDialog;
 import android.app.ProgressDialog;
@@ -31,8 +31,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-import com.group5.project.Models.Calculator;
-import com.group5.project.Models.UserData;
+import com.rarksule.train_ticket.Models.Calculator;
+import com.rarksule.train_ticket.Models.UserData;
 
 public class BookTicket extends AppCompatActivity{
 //      implements AdapterView.OnItemSelectedListener

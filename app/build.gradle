@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.group5.project'
+    namespace 'com.rarksule.train_ticket'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.group5.project"
+        applicationId "com.rarksule.train_ticket"
         minSdk 24
         targetSdk 33
         versionCode 1
