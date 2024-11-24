@@ -6,8 +6,8 @@ Short description of your Android app.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/Train\ Ticket.png)
-![Screenshot 2](/screenshots/Train\ Ticket1.png)
+![Screenshot 1](/screenshots/Train_tiket2.png)
+![Screenshot 2](/screenshots/Train_tiket.png)
 <!-- Add more screenshots as needed -->
 
 ## Installation
