@@ -7,9 +7,12 @@ Short description of your Android app.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/train-ticket.jpg)![Screenshot 2](/screenshots/train-ticket1.jpg)
-![Screenshot 2](/screenshots/train-ticket3.jpg)![Screenshot 1](/screenshots/train-ticket2.jpg)
-![Screenshot 1](/screenshots/train-ticket4.jpg)![Screenshot 2](/screenshots/train-ticket5.jpg)
+![Screenshot 1](/screenshots/train-ticket.jpg)
+![Screenshot 2](/screenshots/train-ticket1.jpg)
+![Screenshot 2](/screenshots/train-ticket3.jpg)
+![Screenshot 1](/screenshots/train-ticket2.jpg)
+![Screenshot 1](/screenshots/train-ticket4.jpg)
+![Screenshot 2](/screenshots/train-ticket5.jpg)
 
 <!-- Add more screenshots as needed -->
 
